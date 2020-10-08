@@ -24,8 +24,12 @@ file : endpint.py
 	APIC_ID = "<YOU_ID>"
 	APIC_PWD = "<YOU_PASSWORD>"
 
+	<img src="./image/config.png">
+
 #### cli example
 	python3 endpoint.py
+
+<img src="./image/run.png">
 
 ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE.md](./LICENSE.md).   file for details.
