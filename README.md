@@ -24,7 +24,7 @@ file : endpint.py
 	APIC_ID = "<YOU_ID>"
 	APIC_PWD = "<YOU_PASSWORD>"
 
-	<img src="./image/config.png">
+<img src="./image/config.png">
 
 #### cli example
 	python3 endpoint.py
